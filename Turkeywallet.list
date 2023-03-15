@@ -1,0 +1,17 @@
+#土区电子钱包（ozan&oldubil...）
+
+#ozan
+DOMAIN-SUFFIX,op-prod-tr.ozan.com
+DOMAIN-SUFFIX,ozan.com
+DOMAIN-SUFFIX,ozan.com.tr
+
+#oldubil
+DOMAIN-KEYWORD,oldubil
+DOMAIN-SUFFIX,oldubil.com
+DOMAIN-SUFFIX,oldubil.com.tr
+
+#ininal
+DOMAIN-KEYWORD,ininal
+
+#fups
+DOMAIN-KEYWORD,fups.com
