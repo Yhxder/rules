@@ -45,5 +45,3 @@ HOST-KEYWORD,pexpay
 HOST-SUFFIX,huobi.com
 HOST-KEYWORD,huobi
 
-#silkpay
-HOST-SUFFIX,api.silksoftgroup.com:5443
